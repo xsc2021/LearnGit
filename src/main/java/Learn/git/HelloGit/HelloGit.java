@@ -6,6 +6,8 @@ public class HelloGit {
 		System.out.println("HelloGit");
 		System.out.println("第一次更新");
 		System.out.println("第二次更新");
+		
+		System.out.println("master中添加");
 
 	}
 
