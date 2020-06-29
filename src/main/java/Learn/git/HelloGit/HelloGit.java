@@ -9,6 +9,9 @@ public class HelloGit {
 		
 		System.out.println("master中添加");
 
+		System.out.println("第一次更新分支添加");
+
+
 	}
 
 }
